@@ -1,0 +1,3 @@
+C:/Users/Esteban/Desktop/Tarea4/PuntoA/cmake-build-debug/CMakeFiles/Punto_A.dir
+C:/Users/Esteban/Desktop/Tarea4/PuntoA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Esteban/Desktop/Tarea4/PuntoA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
